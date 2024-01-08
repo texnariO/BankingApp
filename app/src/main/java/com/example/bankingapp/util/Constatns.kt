@@ -4,4 +4,5 @@ object Constatns {
     const val USER_SETTING = "userSettings"
 
     const val APP_ENTRY = "appEntry"
+    const val APP_LANGUAGE = "appLanguage"
 }
