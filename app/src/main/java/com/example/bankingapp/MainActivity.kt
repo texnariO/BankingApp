@@ -24,7 +24,6 @@ class MainActivity : ComponentActivity() {
                 SetBarColor(color = MaterialTheme.colorScheme.background)
                 Surface(modifier = Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) { }
 
-
             }
         }
     }
