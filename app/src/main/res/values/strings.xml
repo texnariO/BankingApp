@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">BankingApp</string>
+    <string name="app_name">Banking App</string>
+    <string name="onBoardScreenTitle2">Statistics</string>
+    <string name="onBoardScreenTitle1">Sign Up</string>
+    <string name="onBoardScreenTitle3">Main Page</string>
+    <string name="onBoardScreenDescription2">Track and categorize your expenses effortlessly! Monitor spending in categories like dining, groceries, rent, and more. Easily view separate expenditures for each category and keep tabs on your overall expenses.</string>
+    <string name="onBoardScreenDescription1">In our app, register easily using email, mobile, Google, or Apple</string>
+    <string name="onBoardScreenDescription3">On the main page, quickly access transfers, top-up, statistics, savings, budget, and settings. Easily view your transaction history.</string>
 </resources>

@@ -1,7 +1,7 @@
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
-    kotlin("kapt") version "1.9.22"
+    kotlin("kapt") version "1.9.0"
 }
 
 android {
@@ -49,7 +49,7 @@ android {
 
 dependencies {
     implementation("androidx.datastore:datastore-core:1.0.0")
-    kapt("groupId:artifactId:version")
+    //kapt("groupId:artifactId:version")
     implementation("androidx.core:core-ktx:1.10.1")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.1")
     implementation("androidx.activity:activity-compose:1.7.0")
@@ -74,9 +74,9 @@ dependencies {
     implementation ("androidx.navigation:navigation-compose:$navVersion")
 
     //Dagger Hilt
-    implementation ("com.google.dagger:hilt-android:2.45")
+    implementation ("com.google.dagger:hilt-android:2.48")
     kapt ("com.google.dagger:hilt-compiler:2.45")
-    implementation ("androidx.hilt:hilt-navigation-compose:1.0.0")
+    implementation ("androidx.hilt:hilt-navigation-compose:1.1.0")
 
     //Datastore
     implementation ("androidx.datastore:datastore-preferences:1.0.0")

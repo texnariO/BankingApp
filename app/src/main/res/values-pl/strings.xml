@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikacja Bankowa</string>
+    <string name="onBoardScreenTitle2">Statystyka</string>
+    <string name="onBoardScreenTitle1">Rejestracja</string>
+    <string name="onBoardScreenTitle3">Głowna Strona</string>
+    <string name="onBoardScreenDescription2">Śledź i kategoryzuj swoje wydatki bezproblemowo! Monitoruj wydatki w kategoriach takich jak jedzenie poza domem, zakupy spożywcze, czynsz, ubrania itp. Łatwo sprawdzaj osobno kwoty wydane w każdej kategorii i śledź ogólne wydatki.</string>
+    <string name="onBoardScreenDescription1">W naszej aplikacji zarejestruj się łatwo, korzystając z adresu e-mail, numeru telefonu, konta Google lub Apple.</string>
+    <string name="onBoardScreenDescription3">Na głównej stronie szybko uzyskaj dostęp do funkcji takich jak przelewy, doładowania, statystyki, oszczędności, budżet i ustawienia. Wygodnie przeglądaj historię transakcji.</string>
+</resources>

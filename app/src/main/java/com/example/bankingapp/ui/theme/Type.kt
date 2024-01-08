@@ -22,20 +22,33 @@ val Typography = Typography(
                 fontFamily = MontserratFamily,
                 fontWeight = FontWeight.Bold,
                 letterSpacing = 0.5.sp,
-                fontSize = 20.sp
+                fontSize = 30.sp
         ),
         bodyMedium = TextStyle(
                 fontFamily = MontserratFamily,
                 fontWeight = FontWeight.SemiBold,
                 letterSpacing = 0.5.sp,
-                fontSize = 20.sp
+                fontSize = 24.sp
                 ),
         bodySmall = TextStyle(
                 fontFamily = MontserratFamily,
                 fontWeight =  FontWeight.Normal,
                 letterSpacing = 0.5.sp,
+                fontSize = 15.sp
+        ),
+        titleMedium = TextStyle(
+                fontFamily = MontserratFamily,
+                fontWeight =  FontWeight.SemiBold,
+                letterSpacing = 0.3.sp,
                 fontSize = 20.sp
+        ),
+        labelSmall = TextStyle(
+                fontFamily = MontserratFamily,
+                fontWeight = FontWeight.Normal,
+                letterSpacing = 0.3.sp,
+                fontSize = 15.sp
         )
+
         /* Other default text styles to override
     titleLarge = TextStyle(
         fontFamily = FontFamily.Default,
